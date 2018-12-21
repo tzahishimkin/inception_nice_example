@@ -1,2 +1,2 @@
-# inception_nice_example
-This is my inception model example. Including a well organized structure on trainning and testing on Pytorch
+# eye_gaze_net_and_geometry
+Check eye gaze estimation solution
